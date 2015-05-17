@@ -1,3 +1,3 @@
 # pixel_Art
 
-[App in action](emoreno619.github.io/pixel_Art)
+[App in action](http://emoreno619.github.io/pixel_Art/)
